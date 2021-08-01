@@ -1,0 +1,1 @@
+export const teams =['Real Madrid', 'Atletico de Madrid', 'Barcelona', 'Sevilla','Athletic Bilbao','Malaga','Real Sociedad','Real Betis','Getafe']
